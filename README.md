@@ -86,7 +86,7 @@ flutter run -d ios
 This project is licensed under the **MIT License** — feel free to use it as a reference for your own Flutter apps.
 
 ## 👨‍💻 Author
-Developed by **[Your Name]**  
+Developed by Osman Şimşek**  
 📍 Built with ❤️ using Flutter  
 [GitHub Profile](https://github.com/osman0simsek)
 ```
