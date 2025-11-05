@@ -1,4 +1,4 @@
-```markdown
+``markdown
 # 🌤️ Weather App
 
 A cross-platform **Flutter** application that delivers real-time weather updates for **iOS** and **Android**.  
@@ -89,4 +89,4 @@ This project is licensed under the **MIT License** — feel free to use it as a 
 Developed by Osman Şimşek**  
 📍 Built with ❤️ using Flutter  
 [GitHub Profile](https://github.com/osman0simsek)
-```
+``
